@@ -1,10 +1,5 @@
 # Vue crud
 
-## Para iniciar sesión prueba
-
-usuario: ehylindesarrollo@gmail.com
-contraseña: 123456
-
 ## Project setup
 
 ```
